@@ -1,5 +1,6 @@
 {
   "allow": {
-    "10b6a713ec53d26c": { "who": "chrome pc cua toi", "until": "2027-12-31" }
+    "10b6a713ec53d26c": { "who": "chrome pc", "until": "2027-12-31" },
+    "767008d31cfdc792": { "who": "iphone cua toi", "until": "2027-12-31" }
   }
 }
